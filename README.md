@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+https://img.shields.io/github/workflow/status/raselldev/facebook-messenger-clone/Node.js%20CI?style=flat-square
 In the project directory, you can run:
 
 ### `npm start`
