@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Status
+## Status
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/raselldev/facebook-messenger-clone/Node.js%20CI?style=flat-square)
 
 ## Available Scripts
