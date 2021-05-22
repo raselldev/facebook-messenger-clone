@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Status
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/raselldev/facebook-messenger-clone/Node.js%20CI?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/raselldev/facebook-messenger-clone?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/raselldev/facebook-messenger-clone?style=flat-square)
 
 ## Available Scripts
 In the project directory, you can run:
